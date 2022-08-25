@@ -3,7 +3,6 @@
 Simple application to save user & company details using NodeJs, MongoDb.
 
 
-
 # Routes
 
 POST : localhost:3000/allocateUser
